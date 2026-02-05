@@ -131,7 +131,7 @@ npm run build
 
 **Moudy Solutions**  
 📍 Niamey, Niger  
-📧 contact@moudysolutions.com
+📧 moudysolutions@gmail.com
 
 ---
 
